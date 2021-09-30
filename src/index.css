@@ -30,6 +30,7 @@
 
 body {
   margin: 0;
+  background: var(--white, white);
   font-family: var(--primary-font);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;

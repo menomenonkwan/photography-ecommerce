@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import { getRandomNumber } from './utils';
 
 const Context = React.createContext();
 
@@ -28,6 +29,7 @@ const ContextProvider = ({ children }) => {
         id,
         url: `${photoLoc}${id}${photoSize}`,
         isFavorite: false,
+        price: `${getRandomNumber(5, 15)}.99`
       }
     })
 
