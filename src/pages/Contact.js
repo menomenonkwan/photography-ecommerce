@@ -26,10 +26,11 @@ const StyledContainer = styled.div`
     
     h3 {
       font-size: 2.75rem;
-      margin-top: 2rem;
+      margin: 2rem 0;
     }
-
+    
     .contact-text {
+      font-family: var(--secondary-font);
       font-size: 1.25rem;
       letter-spacing: 0.05em;
       font-weight: lighter;
@@ -54,6 +55,8 @@ const StyledContainer = styled.div`
     padding-top: 1rem;
     
     .contact-info { 
+      width: 750px;
+      max-width: 80%;
       .contact-text {
         margin-bottom: 0;
       }

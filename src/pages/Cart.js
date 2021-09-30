@@ -64,7 +64,7 @@ const CheckoutContainer = styled.div`
 const Cart = () => {
   const { cartItems, emptyCart } = useContext(Context);
   const [btnText, setBtnText] = useState('Place Order');
-  const [emptyText, setEmptyText] = useState('Your cart is empty');
+  const [emptyText, setEmptyText] = useState('Your cart is empty, buddy.');
 
   const handleClick = (e) => {
     e.preventDefault();
