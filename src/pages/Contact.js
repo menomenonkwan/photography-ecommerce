@@ -8,6 +8,7 @@ const StyledMain = styled.main`
   background-image: url(${img});
   background-size: cover;
   background-repeat: none;
+  background-attachment: fixed;
 
   @media (min-width: 900px) {
     background-position: center;
