@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/photography-ecommerce/static/css/main.7a6823d1.chunk.css",
+    "main.js": "/photography-ecommerce/static/js/main.eba67c56.chunk.js",
+    "main.js.map": "/photography-ecommerce/static/js/main.eba67c56.chunk.js.map",
+    "runtime-main.js": "/photography-ecommerce/static/js/runtime-main.c7df4692.js",
+    "runtime-main.js.map": "/photography-ecommerce/static/js/runtime-main.c7df4692.js.map",
+    "static/js/2.d0675c87.chunk.js": "/photography-ecommerce/static/js/2.d0675c87.chunk.js",
+    "static/js/2.d0675c87.chunk.js.map": "/photography-ecommerce/static/js/2.d0675c87.chunk.js.map",
+    "index.html": "/photography-ecommerce/index.html",
+    "static/css/main.7a6823d1.chunk.css.map": "/photography-ecommerce/static/css/main.7a6823d1.chunk.css.map",
+    "static/js/2.d0675c87.chunk.js.LICENSE.txt": "/photography-ecommerce/static/js/2.d0675c87.chunk.js.LICENSE.txt",
+    "static/media/contact.c703da45.jpg": "/photography-ecommerce/static/media/contact.c703da45.jpg",
+    "static/media/exit.b218be35.svg": "/photography-ecommerce/static/media/exit.b218be35.svg",
+    "static/media/home.8cf3a989.jpg": "/photography-ecommerce/static/media/home.8cf3a989.jpg",
+    "static/media/logo.83969385.png": "/photography-ecommerce/static/media/logo.83969385.png",
+    "static/media/menu.d9f9ea13.svg": "/photography-ecommerce/static/media/menu.d9f9ea13.svg",
+    "static/media/profile.ca19656f.jpg": "/photography-ecommerce/static/media/profile.ca19656f.jpg",
+    "static/media/sunset.09c6859a.jpg": "/photography-ecommerce/static/media/sunset.09c6859a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7df4692.js",
+    "static/js/2.d0675c87.chunk.js",
+    "static/css/main.7a6823d1.chunk.css",
+    "static/js/main.eba67c56.chunk.js"
+  ]
+}
